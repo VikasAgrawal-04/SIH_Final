@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>863025956296-65rsup0egfcg2trpj90eqm87gvfd4j54.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.863025956296-65rsup0egfcg2trpj90eqm87gvfd4j54</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYu6NjftNfXHbiPP_fhk0tGYkZ-YvlsRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>863025956296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ivr.ivrFrontend</string>
+	<key>PROJECT_ID</key>
+	<string>ivrs-8b2eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ivrs-8b2eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:863025956296:ios:980d30abe652e16fe26cfd</string>
+</dict>
+</plist>
